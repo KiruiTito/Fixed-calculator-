@@ -1,0 +1,9 @@
+Bugs Identified:
+
+1. subtract(x, y) mistakenly does addition instead of subtraction.
+
+
+2. Inputs a and b are strings — need to convert to float or int.
+
+
+3. Division by zero is not checked before divide(x, y).
